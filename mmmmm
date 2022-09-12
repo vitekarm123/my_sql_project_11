@@ -1,0 +1,4 @@
+ROM IPL_MMV;
+ select * from ipl_mmv;
+-- this is group by method
+where result_margin between 50 and 100
