@@ -19,3 +19,4 @@ FROM IPL_MMV;
 where result_margin between 50 and 100
 order by result_margin;
 
+use mani;
